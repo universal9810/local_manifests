@@ -13,5 +13,5 @@
   <!-- <project name="universal9810/android_vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="arrow-12.0" remote="github"/>
   <project name="universal9810/android_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="arrow-12.0" remote="github"/> -->
   <!--Hardware-->
-  <project name="baddar90/android_hardware_samsung" path="hardware/samsung" revision="aosp-12.0" remote="github"/>
+  <project name="blob-trees/android_hardware_samsung" path="hardware/samsung" revision="twelve" remote="github"/>
 </manifest>
