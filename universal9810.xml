@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tree-->
+  <project name="universal9810/android_device_samsung_starlte" path="device/samsung/starlte" revision="arrow-12.0" remote="github"/>
+  <project name="universal9810/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="arrow-12.0" remote="github"/>
+  <project name="universal9810/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="arrow-12.0" remote="github"/>
+  <project name="universal9810/android_device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="arrow-12.0" remote="github"/>
+  <!--Kernel-->
+  <project name="ArrowOS-Devices/android_kernel_samsung_universal9810" path="kernel/samsung/exynos9810" revision="arrow-12.0" remote="github"/>
+  <!--Blobs-->
+  <project name="universal9810/android_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" revision="arrow-12.0" remote="github"/>
+  <project name="universal9810/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="twelve" remote="github"/>
+  <!-- <project name="universal9810/android_vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="arrow-12.0" remote="github"/>
+  <project name="universal9810/android_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="arrow-12.0" remote="github"/> -->
+  <!--Hardware-->
+  <project name="blob-trees/android_hardware_samsung" path="hardware/samsung" revision="twelve" remote="github"/>
+</manifest>
