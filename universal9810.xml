@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Device tree-->
-  <project name="universal9810/android_device_samsung_starlte" path="device/samsung/starlte" revision="awaken" remote="github"/>
-  <project name="universal9810/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="awaken" remote="github"/>
-  <project name="universal9810/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="awaken" remote="github"/>
+  <project name="universal9810/android_device_samsung_starlte" path="device/samsung/starlte" revision="dot" remote="github"/>
+  <project name="universal9810/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="dot" remote="github"/>
+  <project name="universal9810/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="dot" remote="github"/>
   <project name="universal9810/android_device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="twelve" remote="github"/>
   <!--Kernel-->
   <project name="universal9810/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="RC-DYLAN-MOD" remote="github"/>
