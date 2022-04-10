@@ -13,7 +13,7 @@
   <project name="universal9810/android_vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="arrow-12.0" remote="github"/>
   <project name="universal9810/android_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="arrow-12.0" remote="github"/>
   <!--Hardware-->
-  <project name="universal9810/android_hardware_samsung" path="hardware/samsung" revision="twelve" remote="github"/>
+  <project name="universal9810/android_hardware_samsung" path="hardware/samsung" revision="twelve-plus" remote="github"/>
   <!--Common Sepolicy-->
   <project name="universal9810/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve-staging" remote="github"/>
 </manifest>
