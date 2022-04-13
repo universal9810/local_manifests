@@ -15,5 +15,5 @@
   <!--Hardware-->
   <project name="universal9810/android_hardware_samsung" path="hardware/samsung" revision="lineage-19.1" remote="github"/>
   <!--Common Sepolicy-->
-  <project name="universal9810/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="aosp-12.0" remote="github"/>
+  <project name="universal9810/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve_staging" remote="github"/>
 </manifest>
